@@ -14,19 +14,21 @@
       </ul>
     </nav>
     </header>
-      <section id="id1">
+    
+  <section id="id1">
         <h3>Description</h3>
         <p>Photo by Steve</p>
-        <p>This is a photo of Conservatory Pond in <a href="#">Central Park</a> in <a href="#">New York City</a> was taken as October22,2011 with a Canon EOS 6D camera. </p>
-        &emsp;&emsp;&emsp;<img src="http://web.csulb.edu/~mli/lab3/images/large-central-park.jpg" alt="photo1" width="500" height="300">
+        <p>This is a photo of Conservatory Pond in <a href="#">Central Park</a> in <a href="#">New York City</a> was taken as October22,2011 with a Canon EOS 30D camera. </p>
+        &emsp;&emsp;&emsp;<img src="https://www.centralpark.com/downloads/4979/download/conservancy-water.jpe?cb=783665e2e86dabe11fdbe675f24e26c4&w=640" alt="photo1" width="500" height="300">
         <p>&emsp;&emsp;&emsp;Conservatory Pond in Central Park </p> 
     </section>
+
    <section id="id2">
          <h3>Related Photos</h3>
-         <img src="https://lh3.googleusercontent.com/proxy/DPXouj3hTrWxYABuXxBRJ8TuevPVEtccl_UhXUZ8ofCVn8Wrc5hOzh3QV5jMv5AcO9k_3P_btnfYWH25-2dG8dof-vFCXcco1HZryBztCT1-TIY8pAlEhDgu-w6EQ9P8R6-1mRYSbrXYHwsUMNYzHFX-Y5SmOUE0Mj2EAeNJHWvY8hU4" alt="photo2" height="250" width="250">&emsp;<img src="https://imgc.artprintimages.com/img/print/landscape-mirror-central-park-conservatory-water-manhattan-new-york-united-state_u-l-pz29se0.jpg?h=550&p=0&w=550&background=fbfbfb" alt="photo3" height="250" width="250"> &emsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofq70fVkygAsA0Bc2TrCLkY_AdZUlrFumJQ&usqp=CAU" alt="photo4" height="250" width="250">
+         <img src="https://media.timeout.com/images/105305430/630/472/image.jpg" alt="photo2" height="150" width="150">&emsp;<img src="https://images.mapsofworld.com/allwonders/Central-Park-New-York-City.jpg" alt="photo3" height="150" width="150"> &emsp;<img src="https://media.istockphoto.com/photos/aerial-view-of-manhattan-new-york-looking-south-up-central-park-picture-id1207129168?k=6&m=1207129168&s=612x612&w=0&h=5ndCl55aHPrg5Au0u3pRBcMf3F14d7aQrarTFceNVcw=" alt="photo4" height="150" width="150">
      </section>
 
-  <section id="id3">
+   <section id="id3">
          <h3>Reviews</h3>
          <p>By John on September 15,2018</p>
            <p>Easy on the HDR buddy.</p><hr>
