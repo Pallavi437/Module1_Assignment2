@@ -14,7 +14,7 @@
       </ul>
     </nav>
     </header>
-     <section id="id1">
+      <section id="id1">
         <h3>Description</h3>
         <p>Photo by Steve</p>
         <p>This is a photo of Conservatory Pond in <a href="#">Central Park</a> in <a href="#">New York City</a> was taken as October22,2011 with a Canon EOS 6D camera. </p>
