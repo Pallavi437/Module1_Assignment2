@@ -31,9 +31,9 @@
      </section>
     <section id="id3">
          <h3>Reviews</h3>
-         <p>By John on September 15,2018</p>
+         <p>By John on September 15,2021</p>
          <p>Easy on the HDR buddy.</p><hr>
-         <p>By suhas on October 1,2018</p>
+         <p>By suhas on October 1,2021</p>
          <p> I love Central Park.</p><hr>
         
   </section>
@@ -41,7 +41,7 @@
 
 <footer>
     <a href="#">Home|Browse|Search</a>
-    <p>copyright &copy; 2017 Share Your Travels</p>
+    <p>copyright &copy; 2021 Share Your Travels</p>
 </footer>
 </body>   
 </html>
